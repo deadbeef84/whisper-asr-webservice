@@ -1,0 +1,8 @@
+unidecode==1.3.6
+openai-whisper==20230314
+uvicorn[standard]==0.18.3
+gunicorn==20.1.0
+python-multipart==0.0.5
+fastapi==0.95.2
+faster-whisper==0.6.0
+ffmpeg-python==0.2.0
